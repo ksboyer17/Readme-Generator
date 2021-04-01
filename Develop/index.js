@@ -10,7 +10,7 @@ const questions = [
     {
         type:'input',
         name:'github',
-        message:'What is your github username?',
+        message:'What is your GitHub Repository URL/Information?',
     },
     {
         type:'input',
@@ -30,12 +30,12 @@ const questions = [
     {
         type:'input',
         name:'contibutions',
-        message:'What is your project description?',  
+        message:'How can other contribute to your project?',  
     },
     {
         type:'input',
         name:'test',
-        message:'What are your test instructions?',  
+        message:'What are the test that you ran on your project?',  
     },
     {
         type:'input',
@@ -43,10 +43,15 @@ const questions = [
         message:'What is your email?',  
     },
     {
+        type:'input',
+        name:'name',
+        message:'What is your name?',  
+    },
+    {
         type:'list',
         name:'license',
         message:'Which license did you use?',
-        choices: ['MIT','Apache','None'],
+        choices: ['MIT','Apache 2.0','None'],
 
     }
 ];
