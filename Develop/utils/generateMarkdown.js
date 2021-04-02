@@ -40,10 +40,10 @@ function generateMarkdown(data) {
 
  **Table of Contents**\n
  ${data.contents}\n
- *[Description](#description)\n
- *[Contributing](#contributions)\n
- *[Test](#test)\n
- *[Contact Information for Questions](#email)\n
+ *[Description](#Description)\n
+ *[Contributing](#Contributing)\n
+ *[Test](#Tests)\n
+ *[Contact Information for Questions](#For-Questions)\n
 
  **Contributing**\n
  ${data.contributions}
@@ -51,7 +51,7 @@ function generateMarkdown(data) {
  **Tests**\n
  ${data.test}
 
- **For Questions Please Contact the Me Using The Information Below**\n
+ **For Questions**\n
  Name:\n
  ${data.name}
  Email:\n
