@@ -40,10 +40,10 @@ function generateMarkdown(data) {
 
  **Table of Contents**\n
  ${data.contents}
- *[Description](#description)
- *[Contributing](#contributions)
- *[Test](#test)
- *[Contact Information for Questions](#questions)
+ *[Description](#description)\n
+ *[Contributing](#contributions)\n
+ *[Test](#test)\n
+ *[Contact Information for Questions](#questions)\n
 
  **Contributing**\n
  ${data.contributions}
@@ -52,7 +52,8 @@ function generateMarkdown(data) {
  ${data.test}
 
  **For Questions Please Contact the Me Using The Information Below**\n
- Email:${data.email}\n
+ Email:\n
+ ${data.email}
  Github Profile:\n
  https://github.com/${data.github}
 
