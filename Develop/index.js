@@ -51,7 +51,7 @@ const questions = [
         type:'list',
         name:'license',
         message:'Which license did you use?',
-        choices: ['MIT','Apache 2.0','None'],
+        choices: ['MIT','Apache_2.0','None'],
 
     }
 ];

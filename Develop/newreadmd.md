@@ -1,21 +1,21 @@
-# Readme generator
+# Readme Generator
 
-  ![GitHub license](https://img.shields.io/badge/license-Apache 2.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
 
  **Description**
- adsfsdf
+ A nice generator
 
  **Table of Contents**
- adsf
+ contents in a table
 
  **Contribution Guidelines**
  undefined
 
  **Test Criteria**
- afd
+ i ran many test
 
  **For Questions Please Contact the Me Using The Information Below**
- 
+ ksboyer17@gmail.com
  ksboyer17
 
 
