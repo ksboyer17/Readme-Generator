@@ -41,6 +41,9 @@ function generateMarkdown(data) {
  **Table of Contents**\n
  ${data.contents}
  *[Description](#description)
+ *[Contributing](#contributions)
+ *[Test](#test)
+ *[Contact Information for Questions](#questions)
 
  **Contributing**\n
  ${data.contributions}
