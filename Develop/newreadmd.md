@@ -36,7 +36,7 @@
  Kenny Boyer
  Email:
 
- ksboyer17@gmail.com
+ ksboye17@gmail.com
  Github Profile:
 
  https://github.com/ksboyer17
