@@ -29,7 +29,7 @@ const questions = [
     },
     {
         type:'input',
-        name:'contibutions',
+        name:'contributions',
         message:'How can other contribute to your project?',  
     },
     {
