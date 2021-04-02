@@ -20,8 +20,8 @@ https://github.com/ksboyer17/Readme-Generator -
 [GitHub](https://github.com/ksboyer17/Readme-Generator)
 
 **Link to Recording**
-https://github.com/ksboyer17/Readme-Generator -
-[GitHub](https://github.com/ksboyer17/Readme-Generator)
+https://drive.google.com/file/d/1JpvwgGc-XhrPcPmUQlLd81RtHcAgkwiE/view -
+[Tutorial Video](https://drive.google.com/file/d/1JpvwgGc-XhrPcPmUQlLd81RtHcAgkwiE/view)
 
 **Contact Information**
 Email:ksboyerii@gmail.com
