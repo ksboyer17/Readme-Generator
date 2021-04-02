@@ -53,9 +53,9 @@ function generateMarkdown(data) {
 
  # For Questions\n
  Name:\n
- ${data.name}
+ ${data.name}\n
  Email:\n
- ${data.email}
+ ${data.email}\n
  Github Profile:\n
  https://github.com/${data.github}
 

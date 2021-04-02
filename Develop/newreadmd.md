@@ -1,8 +1,8 @@
-# readme generator
+# Readme Generator
 
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
   # License
-  This project uses MIT.
+  This project uses Apache_2.0.
 
  # Description
 
