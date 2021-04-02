@@ -32,22 +32,26 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ${renderLicenseBadge(data.license)}
+  ${renderLicenseSection(data.license)}
+  This project uses ${data.license}.
 
- **Description**
+ **Description**\n
  ${data.description}
 
- **Table of Contents**
+ **Table of Contents**\n
  ${data.contents}
+ *[Description](#description)
 
- **Contribution Guidelines**
+ **Contributing**\n
  ${data.contributions}
 
- **Test Criteria**
+ **Tests**\n
  ${data.test}
 
- **For Questions Please Contact the Me Using The Information Below**
- ${data.email}
- ${data.github}
+ **For Questions Please Contact the Me Using The Information Below**\n
+ Email:${data.email}\n
+ Github Profile:\n
+ https://github.com/${data.github}
 
 
 `;
