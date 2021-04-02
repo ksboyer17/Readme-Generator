@@ -40,10 +40,10 @@ function generateMarkdown(data) {
 
  #Table of Contents\n
  ${data.contents}\n
- *[Description](#Description)\n
- *[Contributing](#Contributing)\n
- *[Test](#Tests)\n
- *[Contact Information for Questions](#For-Questions)\n
+ *[Description](# Description)\n
+ *[Contributing](# Contributing)\n
+ *[Test](# Tests)\n
+ *[Contact Information for Questions](# For-Questions)\n
 
  #Contributing\n
  ${data.contributions}

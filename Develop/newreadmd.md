@@ -1,4 +1,4 @@
-# Readme Generator
+# readme generator
 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # License
@@ -12,13 +12,13 @@
 
  
 
- *[Description](#Description)
+ *[Description](# Description)
 
- *[Contributing](#Contributing)
+ *[Contributing](# Contributing)
 
- *[Test](#Tests)
+ *[Test](# Tests)
 
- *[Contact Information for Questions](#For-Questions)
+ *[Contact Information for Questions](# For-Questions)
 
 
  #Contributing
@@ -36,7 +36,7 @@
  Kenny Boyer
  Email:
 
- ksboye17@gmail.com
+ ksboyer17@gmail.com
  Github Profile:
 
  https://github.com/ksboyer17
