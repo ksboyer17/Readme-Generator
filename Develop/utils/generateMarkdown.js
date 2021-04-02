@@ -35,23 +35,23 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
   This project uses ${data.license}.
 
- **Description**\n
+ #Description\n
  ${data.description}
 
- **Table of Contents**\n
+ #Table of Contents\n
  ${data.contents}\n
  *[Description](#Description)\n
  *[Contributing](#Contributing)\n
  *[Test](#Tests)\n
  *[Contact Information for Questions](#For-Questions)\n
 
- **Contributing**\n
+ #Contributing\n
  ${data.contributions}
 
- **Tests**\n
+ #Tests\n
  ${data.test}
 
- **For Questions**\n
+ #For Questions\n
  Name:\n
  ${data.name}
  Email:\n
