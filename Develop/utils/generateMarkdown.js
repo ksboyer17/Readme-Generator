@@ -48,9 +48,9 @@ function generateMarkdown(data) {
  *[Contact Information for Questions](#for-questions)\n
 
  # Usage\n
- ${data.Usage}
+ ${data.usage}
 
- # install\n
+ # Install\n
  ${data.install}
 
  # Contributing\n
