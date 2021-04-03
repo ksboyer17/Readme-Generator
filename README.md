@@ -21,6 +21,10 @@ Once the User inputs the information above, a quality READme file will be develo
 https://github.com/ksboyer17/Readme-Generator -
 [GitHub](https://github.com/ksboyer17/Readme-Generator)
 
+**Link to a Sample Generated README**
+https://github.com/ksboyer17/Readme-Generator/blob/main/Develop/newreadmd.md -
+[GitHub](https://github.com/ksboyer17/Readme-Generator/blob/main/Develop/newreadmd.md)
+
 **Link to Recording**
 https://drive.google.com/file/d/1JpvwgGc-XhrPcPmUQlLd81RtHcAgkwiE/view -
 [Tutorial Video](https://drive.google.com/file/d/1JpvwgGc-XhrPcPmUQlLd81RtHcAgkwiE/view)
