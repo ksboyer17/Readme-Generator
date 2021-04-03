@@ -24,6 +24,16 @@ const questions = [
     },
     {
         type:'input',
+        name:'install',
+        message:'How do you install your applications?',  
+    },
+    {
+        type:'input',
+        name:'usage',
+        message:'What is the intended usage of your application?',  
+    },
+    {
+        type:'input',
         name:'contents',
         message:'What is your project table of contents?',  
     },

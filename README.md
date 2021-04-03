@@ -13,7 +13,6 @@ The purpose the this project was to allow developers a quick and simple way the 
 6.Table of Contents
 ```
 
-**Screen Shot of an example README**
 
 **Link to Github Page:**
 https://github.com/ksboyer17/Readme-Generator -
